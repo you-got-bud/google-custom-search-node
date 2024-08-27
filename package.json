@@ -11,7 +11,9 @@
   },
   "keywords": [
     "Google",
-    "Google Custom Search"
+    "Google Custom Search",
+    "NodeJS",
+    "Typescript"
   ],
   "author": "YouGotBud",
   "license": "MIT",
