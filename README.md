@@ -7,7 +7,7 @@ This is a simple wrapper for the Google Custom Search API. It allows you to sear
 ### PNPM
 
 ```bash
-pnpm install @you-got-bud/google-custom-search-node
+pnpm add @you-got-bud/google-custom-search-node
 ```
 
 ### Yarn
@@ -25,7 +25,7 @@ bun add @you-got-bud/google-custom-search-node
 ### NPM
 
 ```bash
-npm install @you-got-bud/google-custom-search-node
+npm i @you-got-bud/google-custom-search-node -S
 ```
 
 ## Usage
