@@ -8,7 +8,10 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsup"
+    "build": "tsup",
+    "patch": "pnpm run build && pnpm version patch && pnpm publish --access public",
+    "major": "pnpm run build && pnpm version major && pnpm publish --access public",
+    "minor": "pnpm run build && pnpm version minor && pnpm publish --access public"
   },
   "keywords": [
     "Google",
