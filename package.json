@@ -1,0 +1,22 @@
+{
+  "name": "@you-got-bud/google-custom-search-node",
+  "version": "1.0.0",
+  "description": "Query Google Custom Search in NodeJS With full typescript support. 0 dependencies",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "Google",
+    "Google Custom Search"
+  ],
+  "author": "YouGotBud",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.2.4",
+    "typescript": "^5.5.4"
+  }
+}
